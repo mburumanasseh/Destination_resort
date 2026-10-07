@@ -22,7 +22,7 @@ export default function Home() {
       <Hero
         title="Your Destination for Conferences, Weddings & Getaways"
         subtitle="A practical, well-located resort on the way to Mt Kenya — ideal for corporate events, celebrations, overnight stays and family days out."
-        primaryCta={{ to: '/contact', label: 'Enquire Now' }}
+        primaryCta={{ to: '/booking', label: 'Book Now' }}
         secondaryCta={{ to: '/facilities', label: 'Explore Facilities' }}
         image="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1920&q=80"
       />
@@ -72,7 +72,7 @@ export default function Home() {
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">Ready to plan your next event or stay?</h2>
           <p className="text-brand-100 mb-8 max-w-xl mx-auto">Tell us about your conference, wedding, accommodation needs or day visit. Our team will respond promptly.</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
-            <Link to="/contact" className="inline-flex items-center px-6 py-3 rounded-full bg-accent-500 text-white font-medium hover:bg-accent-600 transition">Send an Enquiry</Link>
+            <Link to="/booking" className="inline-flex items-center px-6 py-3 rounded-full bg-accent-500 text-white font-medium hover:bg-accent-600 transition">Book Now</Link>
             <a href="tel:+254707828785" className="inline-flex items-center px-6 py-3 rounded-full bg-white/10 border border-white/20 text-white font-medium hover:bg-white/20 transition">Call 0707 82 87 85</a>
           </div>
         </div>

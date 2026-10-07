@@ -1,12 +1,18 @@
 # Current Task
 
-## Completed (2026-10-07)
-Prototype website for Destination Resort Centre management pitch.
+## In Progress (2026-10-07)
+Add logo + frontend booking flow.
 
-- Built multi-page site (Home, Conferences, Weddings, Accommodation, Facilities, About, Contact)
-- Merged to `main` after explicit user approval
-- Live at: https://destination-resort.vercel.app (Vercel will redeploy from main)
+### Changes
+1. Custom SVG logo (logo.svg + logo-mark.svg) reflecting mountains, nature, hospitality
+2. Logo used in Navbar, Footer, and favicon
+3. New multi-step Booking page (frontend-only):
+   - Step 1: Type (Room / Conference / Wedding / Day visit)
+   - Step 2: Dates & details
+   - Step 3: Contact details
+   - Generates reference code and stores request in localStorage
+4. Navigation updated with "Book Now"
+5. Home CTAs point to booking
 
-## Next (if needed)
-- Any content/design tweaks based on management feedback
-- Phase 2: real photography, booking form backend, SEO, etc.
+### Status
+Implementation complete on feature/logo-and-booking — ready for review

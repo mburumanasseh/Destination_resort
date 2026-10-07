@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="96" stroke="#245c47" stroke-width="6"/>
+  <!-- Inner soft circle -->
+  <circle cx="100" cy="100" r="82" fill="#f0f7f4"/>
+  
+  <!-- Stylized mountain / Mt Kenya hint -->
+  <path d="M40 130 L75 70 L100 100 L125 60 L160 130 Z" fill="#245c47"/>
+  <!-- Snow cap accent -->
+  <path d="M75 70 L100 100 L125 60 L110 85 L100 95 L90 85 Z" fill="#dcefe6"/>
+  
+  <!-- Tree / nature accent left -->
+  <path d="M55 130 L55 110 M55 110 L48 118 M55 110 L62 118 M55 105 L50 112 M55 105 L60 112" stroke="#3a8f6c" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Sun / warmth accent -->
+  <circle cx="145" cy="55" r="12" fill="#c4922e"/>
+  <circle cx="145" cy="55" r="7" fill="#d4a853"/>
+  
+  <!-- Subtle road / path leading in -->
+  <path d="M100 130 Q100 145 100 155" stroke="#5aab87" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Small building hint -->
+  <rect x="88" y="118" width="24" height="18" rx="2" fill="#1f4a3a"/>
+  <rect x="94" y="124" width="5" height="6" fill="#f0f7f4"/>
+  <rect x="103" y="124" width="5" height="6" fill="#f0f7f4"/>
+</svg>
