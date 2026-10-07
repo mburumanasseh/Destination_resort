@@ -1,13 +1,12 @@
 # Current Task
 
-## Authorized Scope (Approved 2026-10-07)
-Build a high-quality prototype website for Destination Resort Centre that can be pitched to management as a website upgrade.
+## Completed (2026-10-07)
+Prototype website for Destination Resort Centre management pitch.
 
-### Status
-✅ Implementation complete on `feature/prototype-website`
-✅ Pull Request opened: https://github.com/mburumanasseh/Destination_resort/pull/1
-⏳ Awaiting review / merge approval
+- Built multi-page site (Home, Conferences, Weddings, Accommodation, Facilities, About, Contact)
+- Merged to `main` after explicit user approval
+- Live at: https://destination-resort.vercel.app (Vercel will redeploy from main)
 
-### Next
-- Review the PR / Vercel preview
-- Provide feedback or approve merge to main
+## Next (if needed)
+- Any content/design tweaks based on management feedback
+- Phase 2: real photography, booking form backend, SEO, etc.
