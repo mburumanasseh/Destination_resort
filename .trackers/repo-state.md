@@ -1,7 +1,10 @@
 # Repository State
+
 - **Repository URL**: https://github.com/mburumanasseh/Destination_resort
 - **Default branch**: main
 - **Current branch**: feature/prototype-website
-- **Deployment**: Vercel → https://destination-resort.vercel.app
+- **Latest commit**: 23da83a (feat: prototype website...)
+- **PR**: https://github.com/mburumanasseh/Destination_resort/pull/1
+- **Deployment**: Vercel → https://destination-resort.vercel.app (main) + preview for PR
 - **Stack**: Vite + React + Tailwind CSS v4 + React Router
-- **Last known good on main**: Initial Vite starter
+- **Status**: Prototype complete on feature branch, PR open, awaiting review
